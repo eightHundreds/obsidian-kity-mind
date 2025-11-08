@@ -6,6 +6,8 @@
 ![2023-08-28 19 59 30](https://github.com/eightHundreds/obsidian-kity-mind/assets/18695431/4cf8a0d2-7c98-4455-9087-5794985c0ba7)
 
 
+建议使用[obsidian-simple-mindmap](https://github.com/lithStudy/obsidian-simple-mindmap)
+
 
 # TODO
 
